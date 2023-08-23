@@ -1,6 +1,6 @@
 import React from 'react';
 
-import HeroImg from '../../assets/images/hero.svg';
+import HeroImg from '../../assets/images/me.webp';
 // import CountUp from 'react-countup' 12.6k 4.4k 
 
 
@@ -19,7 +19,7 @@ const Hero = () => {
                         <h1
                             data-aos='fade-up'
                             data-aos-duration='1500'
-                            className='text-headingColor font-[800] text-[1.4rem] sm:text-[40px] leading-[35px] sm:leading-[45px] mb-10' >I'm Nazmul Huda <br />
+                            className='text-headingColor font-[800] text-[1.4rem] sm:text-[40px] leading-[35px] sm:leading-[45px] mb-8' >I'm Nazmul Huda <br />
                             <span className=''>Frontend Developer </span>
                         </h1>
 
@@ -47,27 +47,27 @@ const Hero = () => {
                         <div
                             data-aos='fade-right'
                             data-aos-duration='1800'
-                            className="flex items-center mt-14 gap-7 ">
+                            className="flex items-center mt-8 gap-7 ">
                             <span className='text-smallTextColor font-[600] text-[15px]'>
                                 Follow Me :
                             </span>
                             <span>
-                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="">
+                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="/">
                                     <i className="ri-youtube-line"></i>
                                 </a>
                             </span>
                             <span>
-                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="">
+                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="/">
                                     <i className="ri-github-fill"></i>
                                 </a>
                             </span>
                             <span>
-                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="">
+                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="/">
                                     <i className="ri-facebook-line"></i>
                                 </a>
                             </span>
                             <span>
-                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="">
+                                <a className='text-smallTextColor font-[600] text-[18px] flex items-center' href="/">
                                     <i className="ri-instagram-line"></i>
                                 </a>
                             </span>
@@ -75,11 +75,12 @@ const Hero = () => {
                     </div>
                     {/* =========== hero left end =========== */}
                     {/* =========== hero img  =========== */}
-                    <div className="md:basis-1/2 mt-10 sm:mt-0">
+                    <div className="md:basis-1/2 mt-10 sm:mt-0 ">
                         <figure className='flex items-center justify-center'>
                             <img
                                 data-aos='fade-left'
                                 data-aos-duration='1800'
+                                className='object-cover bg-cover bg-primaryColor h-[500px] p-2 rounded-t-full flex justify-start'
                                 src={HeroImg} alt="" />
                         </figure>
                     </div>

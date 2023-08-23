@@ -20,7 +20,7 @@ const Header = () => {
                         <ul className='flex items-center gap-10'>
                             <li><a className='text-headingColor font-[600]' href="#about">About</a></li>
                             <li><a className='text-headingColor font-[600]' href="#services">Services</a></li>
-                            <li><a className='text-headingColor font-[600]' href="#project">Projects</a></li>
+                            <li><a className='text-headingColor font-[600]' href="#projects">Projects</a></li>
                             <li><a className='text-headingColor font-[600]' href="#contact">Contact</a></li>
                         </ul>
                     </div>
