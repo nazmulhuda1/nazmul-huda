@@ -33,6 +33,7 @@ const Modal = ({ activeID, setShowModal }) => {
                         </a>
                     </div>
                 </div>
+                <button onClick={() => setShowModal(false)} className='w-[1.8em] h-[1.8em] bg-[white] absolute top-[1em] right-[1em] text-[25px] rounded-lg flex items-center justify-center'> &times; </button>
             </div>
         </div>
     );

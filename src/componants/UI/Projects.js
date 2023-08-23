@@ -36,7 +36,7 @@ const Projects = () => {
             <div className="container">
                 <div className="flex items-center justify-between flex-wrap">
                     <div className="mb-7 sm:mb-0">
-                        <p className='text-primaryColor text-xl font-[500] mb-3'>Explore my work samples that I have done so far</p>
+                        <p className='text-smallTextColor text-xl font-[500] mb-3'>Explore my work samples that I have done so far</p>
                         <h2 className='text-headingColor font-[700] text-[40px]'>Portfolio</h2>
                     </div>
 
