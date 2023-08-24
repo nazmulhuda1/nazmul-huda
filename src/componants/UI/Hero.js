@@ -33,7 +33,7 @@ const Hero = () => {
                                     <i className="ri-mail-line"></i> Hire Me
                                 </button>
                             </a>
-                            <a href="#portfolio" className='text-headingColor text-[16px] font-[600] border-b border-slid border-smallTextColor'>See Portfolio</a>
+                            <a href="#projects" className='text-headingColor text-[16px] font-[600] border-b border-slid border-smallTextColor'>See Portfolio</a>
                         </div>
 
                         <p data-aos='fade-left'

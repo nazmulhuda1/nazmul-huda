@@ -33,7 +33,7 @@ const Services = () => {
                                             <p className='text-[15px] '>Responsive modern website design using Html5, Css3, Javascript, scss, bootstrap5 with w3 validation, cross browser compatibility, readable code, nice structured and many more.</p>
                                         </div>
                                     </div>
-                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 flex items-center justify-center">
+                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute hidden left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 sm:flex items-center justify-center">
                                         <figure>
                                             <img src={fontendImg} alt="" />
                                         </figure>
@@ -55,7 +55,7 @@ const Services = () => {
                                             <p className='text-[15px] '>Fully Responsive modern single page web application using react.js, redux, firebase, scss, bootstrap / reactStrap with reuseable components, maintainable code, API integration etc.</p>
                                         </div>
                                     </div>
-                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 flex items-center justify-center">
+                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute hidden left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 sm:flex items-center justify-center">
                                         <figure>
                                             <img src={backendImg} alt="" />
                                         </figure>
@@ -77,7 +77,7 @@ const Services = () => {
                                             <p className='text-[15px] '>Fullstack web application development using Next.js, API routes, mongoDB database, with payment integration, third Party api integration etc. Scalable, maintainable code.</p>
                                         </div>
                                     </div>
-                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 flex items-center justify-center">
+                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute hidden left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 sm:flex items-center justify-center">
                                         <figure>
                                             <img src={backDataImg} alt="" />
                                         </figure>
@@ -99,7 +99,7 @@ const Services = () => {
                                             <p className='text-[15px] '>I will convert any kind of psd file using html5, css3, javascript, bootstrap with fully responsive, w3 validation, cross browser compatibility, readable code, nice structured and many more</p>
                                         </div>
                                     </div>
-                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 flex items-center justify-center">
+                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute hidden left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 sm:flex items-center justify-center">
                                         <figure>
                                             <img src={psdImg} alt="" />
                                         </figure>
@@ -120,7 +120,7 @@ const Services = () => {
                                             <p className='text-[15px] '>I will convert any kind of figma file to react.js or next.js with reuseable components, firebase authentication, mongoDB with next.js, maintainable code, API integration, etc.</p>
                                         </div>
                                     </div>
-                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 flex items-center justify-center">
+                                    <div className="rounded-full bg-primaryColor border-white border-4 w-10 h-10 absolute hidden left-1/2 transform -translate-x-1/2 -translate-y-4 sm:translate-y-0 sm:flex items-center justify-center">
                                         <figure>
                                             <img src={appsImg} alt="" />
                                         </figure>

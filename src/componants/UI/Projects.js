@@ -32,7 +32,7 @@ const Projects = () => {
     }, [selectTab])
 
     return (
-        <section id='projects'>
+        <section id='projects' className='relative'>
             <div className="container">
                 <div className="flex items-center justify-between flex-wrap">
                     <div className="mb-7 sm:mb-0">
