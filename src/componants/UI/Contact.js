@@ -40,7 +40,7 @@ const Contact = () => {
                                     className='outline-0 border-0 py-2 px-3 w-[100%] bg-[#102048] text-headingColor rounded-md '
                                     name="" id="" cols="30" rows="5" placeholder='Write Message'>
                                 </textarea>
-                                <button className='bg-primaryColor text-headingColor text-[18px] font-[300] w-[150px] py-2 px-4 rounded-[8px] '>Submit</button>
+                                <button className='bg-primaryColor text-headingColor text-[18px] font-[300] w-[150px] py-2 px-4 rounded-[8px] hover:bg-secondaryColor ease-in duration-300 shadow-lg border  border-primaryColor hover:border-primaryColor hover:border'>Submit</button>
                             </form>
                         </div>
                     </div>
